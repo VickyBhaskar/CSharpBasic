@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\bin\Debug\net6.0\VariableAndDataType.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\bin\Debug\net6.0\VariableAndDataType.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\bin\Debug\net6.0\VariableAndDataType.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\bin\Debug\net6.0\VariableAndDataType.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\bin\Debug\net6.0\VariableAndDataType.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\obj\Debug\net6.0\VariableAndDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\obj\Debug\net6.0\VariableAndDataType.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\obj\Debug\net6.0\VariableAndDataType.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\obj\Debug\net6.0\VariableAndDataType.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\obj\Debug\net6.0\VariableAndDataType.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\obj\Debug\net6.0\refint\VariableAndDataType.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\obj\Debug\net6.0\VariableAndDataType.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\obj\Debug\net6.0\VariableAndDataType.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\VariableAndDataType\VariableAndDataType\obj\Debug\net6.0\ref\VariableAndDataType.dll

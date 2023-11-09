@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\bin\Debug\net6.0\SunAndAvgOfArrayEle.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\bin\Debug\net6.0\SunAndAvgOfArrayEle.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\bin\Debug\net6.0\SunAndAvgOfArrayEle.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\bin\Debug\net6.0\SunAndAvgOfArrayEle.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\bin\Debug\net6.0\SunAndAvgOfArrayEle.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\obj\Debug\net6.0\SunAndAvgOfArrayEle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\obj\Debug\net6.0\SunAndAvgOfArrayEle.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\obj\Debug\net6.0\SunAndAvgOfArrayEle.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\obj\Debug\net6.0\SunAndAvgOfArrayEle.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\obj\Debug\net6.0\SunAndAvgOfArrayEle.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\obj\Debug\net6.0\refint\SunAndAvgOfArrayEle.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\obj\Debug\net6.0\SunAndAvgOfArrayEle.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\obj\Debug\net6.0\SunAndAvgOfArrayEle.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\SunAndAvgOfArrayEle\SunAndAvgOfArrayEle\obj\Debug\net6.0\ref\SunAndAvgOfArrayEle.dll

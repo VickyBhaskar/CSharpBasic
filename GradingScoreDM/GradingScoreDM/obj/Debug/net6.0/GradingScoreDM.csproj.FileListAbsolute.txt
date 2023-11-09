@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\bin\Debug\net6.0\GradingScoreDM.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\bin\Debug\net6.0\GradingScoreDM.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\bin\Debug\net6.0\GradingScoreDM.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\bin\Debug\net6.0\GradingScoreDM.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\bin\Debug\net6.0\GradingScoreDM.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\obj\Debug\net6.0\GradingScoreDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\obj\Debug\net6.0\GradingScoreDM.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\obj\Debug\net6.0\GradingScoreDM.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\obj\Debug\net6.0\GradingScoreDM.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\obj\Debug\net6.0\GradingScoreDM.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\obj\Debug\net6.0\refint\GradingScoreDM.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\obj\Debug\net6.0\GradingScoreDM.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\obj\Debug\net6.0\GradingScoreDM.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\GradingScoreDM\GradingScoreDM\obj\Debug\net6.0\ref\GradingScoreDM.dll
